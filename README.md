@@ -5,7 +5,10 @@
 - 📫 How to reach me: 22161107@kaywon.ac.kr
 - 😊happy😊
 
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=flatsquare&logo=Adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flatsquare&logo=Adobe Illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flatsquare&logo=Adobe After Effects&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flatsquare&logo=Adobe XD&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flatsquare&logo=Adobe Photoshop&logoColor=white"/></a>
 
 
 
